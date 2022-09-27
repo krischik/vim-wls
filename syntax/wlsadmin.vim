@@ -1,16 +1,11 @@
 "----------------------------------------------------------------------------
-"  Description: Vim wlsadmin syntax file
+"  Description: wlsadmin syntax file
 "     Language: wlsadmin.Admin Command-Line Reference
-"	   $Id: wlsadmin.vim,v 1.3 2006/11/24 12:05:04 krischikm Exp $
-"    Copyright: Copyright (C) 2006 Martin Krischik
+"    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer: Martin Krischik
-"      $Author: krischikm $
-"	 $Date: 2006/11/24 12:05:04 $
-"      Version: 0.1
-"    $Revision: 1.3 $
-"     $HeadURL: https://svn.sourceforge.net/svnroot/gnuwlsadmin/trunk/tools/vim/syntax/wlsadmin.vim $
-"		http://www.dwheeler.com/vim
+"      Version: 0.2
 "      History: 08.11.2006 MK A wlsadmin Syntax file
+"               27.09.2022 MK make dein compatible
 "    Help Page: help ft-wlsadmin-syntax
 "------------------------------------------------------------------------------
 " wlsadmin Server Command Reference
@@ -150,9 +145,8 @@ syntax sync minlines=1 maxlines=1
 finish " 1}}}
 
 "------------------------------------------------------------------------------
-"   Copyright (C) 2006	Martin Krischik
-"
 "   Vim is Charityware - see ":help license" or uganda.txt for licence details.
 "------------------------------------------------------------------------------
-"vim: textwidth=78 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab
-"vim: foldmethod=marker
+" vim: set textwidth=78 nowrap tabstop=8 shiftwidth=4 softtabstop=4 expandtab :
+" vim: set filetype=vim fileencoding=utf-8 fileformat=unix foldmethod=marker :
+" vim: set spell spelllang=en_gb :

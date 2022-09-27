@@ -1,14 +1,11 @@
 ------------------------------------------------------------------------------
 "  Description: Options setable by the wls plugin
-"	   $Id: wls_options.vim,v 1.1 2006/11/24 11:48:59 krischikm Exp $
-"    Copyright: Copyright (C) 2006 Martin Krischik
+"     Language: wlsadmin.Admin Command-Line Reference
+"    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer:	Martin Krischik
-"      $Author: krischikm $
-"	 $Date: 2006/11/24 11:48:59 $
-"      Version: 0.1
-"    $Revision: 1.1 $
-"     $HeadURL: https://svn.sourceforge.net/svnroot/gnuada/trunk/tools/vim/wls_options.vim $
+"      Version: 0.2
 "      History:	17.11.2006 MK wls_Options
+"               27.09.2022 MK make dein compatible
 "	 Usage: copy content into your .vimrc and change options to your
 "		likeing.
 "    Help Page: ft-ada-options
