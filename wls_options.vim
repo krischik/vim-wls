@@ -3,7 +3,7 @@
 "     Language: wlsadmin.Admin Command-Line Reference
 "    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer:	Martin Krischik
-"      Version: 0.1
+"      Version: 0.2
 "      History:	17.11.2006 MK wls_Options
 "               27.09.2022 MK make dein compatible
 "	 Usage: copy content into your .vimrc and change options to your
