@@ -1,14 +1,10 @@
 "------------------------------------------------------------------------------
-"  Description: Perform wlsadminspecific completion & tagging.
+"  Description: Perform wlsadmin functions
 "     Language: wlsadmin (2005)
-"	   $Id: wlsadmin.vim,v 1.2 2006/11/24 11:48:59 krischikm Exp $
+"    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer: Martin Krischik
 "		Neil Bird <neil@fnxweb.com>
-"      $Author: krischikm $
-"	 $Date: 2006/11/24 11:48:59 $
 "      Version: 0.1
-"    $Revision: 1.2 $
-"     $HeadURL: https://svn.sourceforge.net/svnroot/gnuwlsadmin/trunk/tools/vim/autoload/wlsadmin.vim $
 "      History: 08.11.2006 MK A wlsadmin Syntax file
 "    Help Page: ft-wlsadmin-functions
 "------------------------------------------------------------------------------
@@ -137,9 +133,8 @@ lockvar! g:wlsadmin#Keywords
 finish " 1}}}
 
 "------------------------------------------------------------------------------
-"   Copyright (C) 2006	Martin Krischik
-"
 "   Vim is Charityware - see ":help license" or uganda.txt for licence details.
 "------------------------------------------------------------------------------
-" vim: textwidth=78 wrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab
-" vim: foldmethod=marker
+" vim: set textwidth=78 wrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab :
+" vim: set filetype=vim fileencoding=utf-8 fileformat=unix foldmethod=marker :
+" vim: set spell spelllang=en_gb :
