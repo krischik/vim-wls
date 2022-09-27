@@ -4,8 +4,9 @@
 "    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer: Martin Krischik
 "		Neil Bird <neil@fnxweb.com>
-"      Version: 0.1
+"      Version: 0.2
 "      History: 08.11.2006 MK A wlsadmin Syntax file
+"               27.09.2022 MK make dein compatible
 "    Help Page: ft-wlsadmin-functions
 "------------------------------------------------------------------------------
 
