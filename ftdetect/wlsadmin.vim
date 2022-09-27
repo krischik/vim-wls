@@ -5,6 +5,7 @@
 "   Maintainer: Martin Krischik
 "      Version: 0.1
 "      History: 20.11.2006 MK SnipSnap Wiki Syntax
+"               27.09.2022 MK make dein compatible
 "    Help Page: ft-snipnap-plugin
 "------------------------------------------------------------------------------
 
