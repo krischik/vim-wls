@@ -17,12 +17,10 @@ Discuss improvements on: http://groups.google.com/group/vim_scripts
 
 Install from https://github.com/krischik/vim-wls using dein (https://github.com/Shougo/dein.vim) or similar:
 
-{{code|lang=vim|
-call dein#begin('$HOME/vimfiles/bundles')
-call dein#add('krischik/vim-wls')
-call dein#end()
-call dein#install()
-}}
+    call dein#begin('$HOME/vimfiles/bundles')
+    call dein#add('krischik/vim-wls')
+    call dein#end()
+    call dein#install()
 
 == References ==
 
